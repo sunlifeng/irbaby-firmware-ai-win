@@ -12,3 +12,9 @@
 - [x] IRext
 - [x] IRsend
 - [x] IRreceive
+
+
+## 艾韵智能 遥控器修改版 
+
+- 将 13脚拉低，14脚拉高避免高电流引起的系统过热。 
+- 增加了ota http://esp12fip/update 
