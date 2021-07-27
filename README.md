@@ -15,4 +15,4 @@
 ## AI-Win
 - add pull up GPIO14 & pull down GPIO13
 - add ota http://ip/update
-- 
+- uncomment  USE_RF  to use rf433 (need hardware hack)
