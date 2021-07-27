@@ -11,3 +11,8 @@
 - [x] IRreceive
 - [x] LED
 - [x] KEY
+
+## AI-Win
+- add pull up GPIO14 & pull down GPIO13
+- add ota http://ip/update
+- 
